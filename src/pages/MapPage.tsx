@@ -174,7 +174,7 @@ export default function MapPage() {
 
   // Load world GeoJSON and register
   useEffect(() => {
-    fetch('/data/world.geojson')
+    fetch(`${import.meta.env.BASE_URL}data/world.geojson`)
       .then(r => r.json())
       .then(data => {
         echarts.registerMap('world', data)
