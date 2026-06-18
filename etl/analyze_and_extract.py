@@ -151,7 +151,10 @@ def get_geo(loc_key, ciclo):
 
 def parse_num(s):
     if s is None or s == "" or s == "-": return None
-    if isinstance(s, (int, float)): return float(s)
+    if isinstance(s, (int, float)):
+        v = float(s)
+        # Round to integer if very close (handles Excel floating-point formula noise)
+        return round(v) if abs(v - round(v)) < 0.5 else round(v, 4)
     s = str(s).replace("$","").replace(".","").replace(",",".").strip()
     s = re.sub(r"[^\d\.\-]","",s)
     try: return float(s)
