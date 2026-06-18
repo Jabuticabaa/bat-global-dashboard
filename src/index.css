@@ -2,16 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-bat-dark text-gray-100;
-  font-family: 'Inter', system-ui, sans-serif;
+@layer base {
+  body {
+    @apply bg-[#0B0F1A] text-gray-100;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: #0B0F1A; }
+  ::-webkit-scrollbar-thumb { background: #2D3748; border-radius: 3px; }
 }
 
-.leaflet-container {
-  background: #111827;
+.leaflet-container { background: #0B0F1A !important; }
+.leaflet-tile-pane { opacity: 0.85; }
+
+.card {
+  @apply rounded-xl border border-[#1F2937] bg-[#111827];
 }
 
-/* Scrollbar styling */
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-track { background: #0A0A1A; }
-::-webkit-scrollbar-thumb { background: #374151; border-radius: 3px; }
+.card-elevated {
+  @apply rounded-xl border border-[#1F2937] bg-[#1C2333];
+}

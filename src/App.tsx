@@ -13,9 +13,9 @@ export default function App() {
   const [page, setPage] = useState<Page>('map')
 
   return (
-    <div className="flex h-screen overflow-hidden bg-bat-dark">
+    <div className="flex h-screen overflow-hidden bg-[#0B0F1A]">
       <Sidebar current={page} onNavigate={setPage} />
-      <main className="flex-1 overflow-auto">
+      <main className="flex-1 overflow-auto min-w-0">
         {page === 'map'       && <MapPage />}
         {page === 'overview'  && <OverviewPage />}
         {page === 'brazil'    && <BrazilPage />}

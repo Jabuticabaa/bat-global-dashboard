@@ -150,17 +150,22 @@ def get_geo(loc_key, ciclo):
     return None
 
 def parse_num(s):
-    if not s or s in ("-",""):
-        return None
+    if s is None or s == "" or s == "-": return None
+    if isinstance(s, (int, float)): return float(s)
     s = str(s).replace("$","").replace(".","").replace(",",".").strip()
     s = re.sub(r"[^\d\.\-]","",s)
     try: return float(s)
     except: return None
 
 def parse_pct(s):
-    if not s: return None
+    if s is None or s == "" or s == "-": return None
+    if isinstance(s, (int, float)):
+        v = float(s)
+        return round(v * 100, 4) if v < 1.5 else v  # normalize decimal fractions
     s = str(s).replace("%","").replace(",",".").strip()
-    try: return float(s)
+    try:
+        v = float(s)
+        return round(v * 100, 4) if v < 1.5 else v
     except: return None
 
 # ─── READ MARKET INTELLIGENCE ─────────────────────────────────────────────────
@@ -436,4 +441,25 @@ print(f"  L3 countries:     {len(countries_data)}")
 print(f"  L4 regions:       {sum(len(cd.get('regions',{})) for cd in countries_data.values())}")
 print(f"  L5 cities (real): {all_cities}")
 print(f"  Total OSs mapped: {total_os:,}")
+
+# Download world GeoJSON for choropleth map
+import urllib.request
+world_geojson_path = OUT / "world.geojson"
+if not world_geojson_path.exists():
+    print("\nDownloading world GeoJSON...")
+    url = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"
+    try:
+        urllib.request.urlretrieve(url, world_geojson_path)
+        print(f"  Downloaded world.geojson ({world_geojson_path.stat().st_size//1024}KB)")
+    except Exception as e:
+        print(f"  Primary URL failed: {e}, trying fallback...")
+        try:
+            url2 = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
+            urllib.request.urlretrieve(url2, world_geojson_path)
+            print(f"  Downloaded world.geojson from fallback ({world_geojson_path.stat().st_size//1024}KB)")
+        except Exception as e2:
+            print(f"  Fallback also failed: {e2}")
+else:
+    print(f"\n  world.geojson already exists ({world_geojson_path.stat().st_size//1024}KB)")
+
 print("\nDone.")
