@@ -323,6 +323,13 @@ GEO_REGIONS: dict[tuple[str,str], tuple[float,float]] = {
     # Argélia
     ("Argélia","Norte (Alger)"): (36.7,3.1), ("Argélia","Nordeste"): (36.4,6.6),
     ("Argélia","Noroeste"): (35.7,1.3), ("Argélia","Sul (Saara)"): (27.0,2.9),
+    # Brazil — centroids computed from GEO_L5 city averages
+    ("Brazil","NNE"): (-5.6818, -46.6074),
+    ("Brazil","CTO"): (-18.0439, -49.7886),
+    ("Brazil","RIO"): (-17.7485, -40.3117),
+    ("Brazil","SPC"): (-23.7782, -46.5177),
+    ("Brazil","SPR"): (-23.0281, -48.8774),
+    ("Brazil","SUL"): (-28.4014, -50.7623),
 }
 
 def get_geo(loc_key, ciclo):

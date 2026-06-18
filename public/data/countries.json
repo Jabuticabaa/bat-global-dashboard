@@ -37,8 +37,8 @@
         "pos_active_pct": 7.0301,
         "posms": 13851,
         "posms_pct": 4.5265,
-        "lat": -14.2,
-        "lng": -51.9,
+        "lat": -5.6818,
+        "lng": -46.6074,
         "data_type": "real+estimated",
         "cities": {
           "Belém/PA": {
@@ -646,8 +646,8 @@
         "pos_active_pct": 9.2161,
         "posms": 11953,
         "posms_pct": 7.0679,
-        "lat": -14.2,
-        "lng": -51.9,
+        "lat": -18.0439,
+        "lng": -49.7886,
         "data_type": "real+estimated",
         "cities": {
           "Campo Grande/MS": {
@@ -913,8 +913,8 @@
         "pos_active_pct": 16.7608,
         "posms": 7392,
         "posms_pct": 10.6521,
-        "lat": -14.2,
-        "lng": -51.9,
+        "lat": -17.7485,
+        "lng": -40.3117,
         "data_type": "real+estimated",
         "cities": {
           "Salvador/BA": {
@@ -1091,8 +1091,8 @@
         "pos_active_pct": 18.5136,
         "posms": 12207,
         "posms_pct": 14.1759,
-        "lat": -14.2,
-        "lng": -51.9,
+        "lat": -23.7782,
+        "lng": -46.5177,
         "data_type": "real+estimated",
         "cities": {
           "São Paulo/SP": {
@@ -1200,8 +1200,8 @@
         "pos_active_pct": 13.5421,
         "posms": 12814,
         "posms_pct": 8.8994,
-        "lat": -14.2,
-        "lng": -51.9,
+        "lat": -23.0281,
+        "lng": -48.8774,
         "data_type": "real+estimated",
         "cities": {
           "Campinas/SP": {
@@ -1415,8 +1415,8 @@
         "pos_active_pct": 28.0059,
         "posms": 14423,
         "posms_pct": 19.1317,
-        "lat": -14.2,
-        "lng": -51.9,
+        "lat": -28.4014,
+        "lng": -50.7623,
         "data_type": "real+estimated",
         "cities": {
           "Itajaí/SC": {
