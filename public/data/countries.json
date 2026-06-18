@@ -37,8 +37,8 @@
         "pos_active_pct": 7.0301,
         "posms": 13851,
         "posms_pct": 4.5265,
-        "lat": null,
-        "lng": null,
+        "lat": -14.2,
+        "lng": -51.9,
         "data_type": "real+estimated",
         "cities": {
           "Belém/PA": {
@@ -646,8 +646,8 @@
         "pos_active_pct": 9.2161,
         "posms": 11953,
         "posms_pct": 7.0679,
-        "lat": null,
-        "lng": null,
+        "lat": -14.2,
+        "lng": -51.9,
         "data_type": "real+estimated",
         "cities": {
           "Campo Grande/MS": {
@@ -913,8 +913,8 @@
         "pos_active_pct": 16.7608,
         "posms": 7392,
         "posms_pct": 10.6521,
-        "lat": null,
-        "lng": null,
+        "lat": -14.2,
+        "lng": -51.9,
         "data_type": "real+estimated",
         "cities": {
           "Salvador/BA": {
@@ -1091,8 +1091,8 @@
         "pos_active_pct": 18.5136,
         "posms": 12207,
         "posms_pct": 14.1759,
-        "lat": null,
-        "lng": null,
+        "lat": -14.2,
+        "lng": -51.9,
         "data_type": "real+estimated",
         "cities": {
           "São Paulo/SP": {
@@ -1200,8 +1200,8 @@
         "pos_active_pct": 13.5421,
         "posms": 12814,
         "posms_pct": 8.8994,
-        "lat": null,
-        "lng": null,
+        "lat": -14.2,
+        "lng": -51.9,
         "data_type": "real+estimated",
         "cities": {
           "Campinas/SP": {
@@ -1415,8 +1415,8 @@
         "pos_active_pct": 28.0059,
         "posms": 14423,
         "posms_pct": 19.1317,
-        "lat": null,
-        "lng": null,
+        "lat": -14.2,
+        "lng": -51.9,
         "data_type": "real+estimated",
         "cities": {
           "Itajaí/SC": {
@@ -2562,8 +2562,8 @@
         "pos_active_pct": 21.73,
         "posms": 5531,
         "posms_pct": 7.1187,
-        "lat": null,
-        "lng": null,
+        "lat": -34.6,
+        "lng": -58.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2584,8 +2584,8 @@
         "pos_active_pct": 20.7,
         "posms": 2329,
         "posms_pct": 6.1603,
-        "lat": null,
-        "lng": null,
+        "lat": -24.0,
+        "lng": -65.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2606,8 +2606,8 @@
         "pos_active_pct": 20.29,
         "posms": 1268,
         "posms_pct": 6.0383,
-        "lat": null,
-        "lng": null,
+        "lat": -27.5,
+        "lng": -57.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2628,8 +2628,8 @@
         "pos_active_pct": 20.7,
         "posms": 1223,
         "posms_pct": 6.4687,
-        "lat": null,
-        "lng": null,
+        "lat": -32.9,
+        "lng": -68.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2650,8 +2650,8 @@
         "pos_active_pct": 19.66,
         "posms": 774,
         "posms_pct": 6.1437,
-        "lat": null,
-        "lng": null,
+        "lat": -41.8,
+        "lng": -65.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2672,8 +2672,8 @@
         "pos_active_pct": 21.73,
         "posms": 2990,
         "posms_pct": 7.1187,
-        "lat": null,
-        "lng": null,
+        "lat": -38.4,
+        "lng": -63.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -2717,8 +2717,8 @@
         "pos_active_pct": 6.7,
         "posms": 976,
         "posms_pct": 2.5808,
-        "lat": null,
-        "lng": null,
+        "lat": 10.9,
+        "lng": -74.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2739,8 +2739,8 @@
         "pos_active_pct": 7.03,
         "posms": 1733,
         "posms_pct": 2.832,
-        "lat": null,
-        "lng": null,
+        "lat": 4.7,
+        "lng": -74.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2761,8 +2761,8 @@
         "pos_active_pct": 6.36,
         "posms": 603,
         "posms_pct": 2.3941,
-        "lat": null,
-        "lng": null,
+        "lat": 3.9,
+        "lng": -77.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2783,8 +2783,8 @@
         "pos_active_pct": 6.7,
         "posms": 428,
         "posms_pct": 2.6396,
-        "lat": null,
-        "lng": null,
+        "lat": 4.2,
+        "lng": -72.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2805,8 +2805,8 @@
         "pos_active_pct": 6.36,
         "posms": 211,
         "posms_pct": 2.3392,
-        "lat": null,
-        "lng": null,
+        "lat": -1.5,
+        "lng": -71.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2827,8 +2827,8 @@
         "pos_active_pct": 6.7,
         "posms": 45,
         "posms_pct": 2.519,
-        "lat": null,
-        "lng": null,
+        "lat": 4.1,
+        "lng": -72.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -2849,8 +2849,8 @@
         "pos_active_pct": 7.03,
         "posms": 816,
         "posms_pct": 2.832,
-        "lat": null,
-        "lng": null,
+        "lat": 4.1,
+        "lng": -72.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -2894,8 +2894,8 @@
         "pos_active_pct": 9.3,
         "posms": 6616,
         "posms_pct": 7.3507,
-        "lat": null,
-        "lng": null,
+        "lat": -9.2,
+        "lng": -75.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -2939,8 +2939,8 @@
         "pos_active_pct": 15.0,
         "posms": 7830,
         "posms_pct": 9.7875,
-        "lat": null,
-        "lng": null,
+        "lat": 6.4,
+        "lng": -66.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -2984,8 +2984,8 @@
         "pos_active_pct": 8.4,
         "posms": 3879,
         "posms_pct": 5.9674,
-        "lat": null,
-        "lng": null,
+        "lat": -1.8,
+        "lng": -78.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3029,8 +3029,8 @@
         "pos_active_pct": 16.7,
         "posms": 3132,
         "posms_pct": 14.2368,
-        "lat": null,
-        "lng": null,
+        "lat": -32.5,
+        "lng": -55.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3074,8 +3074,8 @@
         "pos_active_pct": 4.0,
         "posms": 668,
         "posms_pct": 2.3856,
-        "lat": null,
-        "lng": null,
+        "lat": -23.4,
+        "lng": -58.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3119,8 +3119,8 @@
         "pos_active_pct": 8.9,
         "posms": 233,
         "posms_pct": 4.6672,
-        "lat": null,
-        "lng": null,
+        "lat": 5.0,
+        "lng": -58.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3164,8 +3164,8 @@
         "pos_active_pct": 10.0,
         "posms": 213,
         "posms_pct": 4.725,
-        "lat": null,
-        "lng": null,
+        "lat": 3.9,
+        "lng": -56.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3209,8 +3209,8 @@
         "pos_active_pct": 9.7,
         "posms": 2988,
         "posms_pct": 5.432,
-        "lat": null,
-        "lng": null,
+        "lat": 15.8,
+        "lng": -90.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3254,8 +3254,8 @@
         "pos_active_pct": 6.9,
         "posms": 1013,
         "posms_pct": 3.6184,
-        "lat": null,
-        "lng": null,
+        "lat": 13.8,
+        "lng": -88.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3299,8 +3299,8 @@
         "pos_active_pct": 10.6,
         "posms": 1781,
         "posms_pct": 5.936,
-        "lat": null,
-        "lng": null,
+        "lat": 15.2,
+        "lng": -86.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3344,8 +3344,8 @@
         "pos_active_pct": 8.0,
         "posms": 839,
         "posms_pct": 4.1952,
-        "lat": null,
-        "lng": null,
+        "lat": 12.9,
+        "lng": -85.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3389,8 +3389,8 @@
         "pos_active_pct": 6.9,
         "posms": 1261,
         "posms_pct": 4.5023,
-        "lat": null,
-        "lng": null,
+        "lat": 9.7,
+        "lng": -83.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3434,8 +3434,8 @@
         "pos_active_pct": 3.7,
         "posms": 373,
         "posms_pct": 2.072,
-        "lat": null,
-        "lng": null,
+        "lat": 8.5,
+        "lng": -80.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3479,8 +3479,8 @@
         "pos_active_pct": 10.0,
         "posms": 2700,
         "posms_pct": 7.104,
-        "lat": null,
-        "lng": null,
+        "lat": 18.7,
+        "lng": -70.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3524,8 +3524,8 @@
         "pos_active_pct": 8.64,
         "posms": 2787,
         "posms_pct": 1.8421,
-        "lat": null,
-        "lng": null,
+        "lat": 42.0,
+        "lng": -73.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3546,8 +3546,8 @@
         "pos_active_pct": 9.79,
         "posms": 4009,
         "posms_pct": 2.1448,
-        "lat": null,
-        "lng": null,
+        "lat": 41.0,
+        "lng": -87.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3568,8 +3568,8 @@
         "pos_active_pct": 10.56,
         "posms": 8035,
         "posms_pct": 2.3759,
-        "lat": null,
-        "lng": null,
+        "lat": 33.0,
+        "lng": -84.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3590,8 +3590,8 @@
         "pos_active_pct": 8.45,
         "posms": 3848,
         "posms_pct": 1.8017,
-        "lat": null,
-        "lng": null,
+        "lat": 37.0,
+        "lng": -120.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3635,8 +3635,8 @@
         "pos_active_pct": 8.4,
         "posms": 77,
         "posms_pct": 1.1542,
-        "lat": null,
-        "lng": null,
+        "lat": 46.0,
+        "lng": -64.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3657,8 +3657,8 @@
         "pos_active_pct": 8.82,
         "posms": 273,
         "posms_pct": 1.2513,
-        "lat": null,
-        "lng": null,
+        "lat": 52.0,
+        "lng": -72.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3679,8 +3679,8 @@
         "pos_active_pct": 7.98,
         "posms": 406,
         "posms_pct": 1.0971,
-        "lat": null,
-        "lng": null,
+        "lat": 50.0,
+        "lng": -86.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3701,8 +3701,8 @@
         "pos_active_pct": 8.4,
         "posms": 197,
         "posms_pct": 1.1546,
-        "lat": null,
-        "lng": null,
+        "lat": 52.0,
+        "lng": -106.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3723,8 +3723,8 @@
         "pos_active_pct": 7.56,
         "posms": 124,
         "posms_pct": 1.0063,
-        "lat": null,
-        "lng": null,
+        "lat": 53.7,
+        "lng": -127.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3768,8 +3768,8 @@
         "pos_active_pct": 14.91,
         "posms": 3517,
         "posms_pct": 4.8845,
-        "lat": null,
-        "lng": null,
+        "lat": 27.0,
+        "lng": -107.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3790,8 +3790,8 @@
         "pos_active_pct": 14.2,
         "posms": 1917,
         "posms_pct": 4.4375,
-        "lat": null,
-        "lng": null,
+        "lat": 24.0,
+        "lng": -104.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3812,8 +3812,8 @@
         "pos_active_pct": 14.91,
         "posms": 6012,
         "posms_pct": 4.7715,
-        "lat": null,
-        "lng": null,
+        "lat": 19.4,
+        "lng": -99.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3834,8 +3834,8 @@
         "pos_active_pct": 13.49,
         "posms": 3180,
         "posms_pct": 4.0146,
-        "lat": null,
-        "lng": null,
+        "lat": 18.0,
+        "lng": -92.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -3856,8 +3856,8 @@
         "pos_active_pct": 14.2,
         "posms": 1757,
         "posms_pct": 4.4375,
-        "lat": null,
-        "lng": null,
+        "lat": 20.7,
+        "lng": -88.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3901,8 +3901,8 @@
         "pos_active_pct": 8.4,
         "posms": 859,
         "posms_pct": 7.161,
-        "lat": null,
-        "lng": null,
+        "lat": 18.1,
+        "lng": -77.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3946,8 +3946,8 @@
         "pos_active_pct": 15.0,
         "posms": 948,
         "posms_pct": 11.856,
-        "lat": null,
-        "lng": null,
+        "lat": 10.7,
+        "lng": -61.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -3991,8 +3991,8 @@
         "pos_active_pct": 10.0,
         "posms": 178,
         "posms_pct": 7.104,
-        "lat": null,
-        "lng": null,
+        "lat": 13.2,
+        "lng": -59.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4036,8 +4036,8 @@
         "pos_active_pct": 8.4,
         "posms": 996,
         "posms_pct": 1.743,
-        "lat": null,
-        "lng": null,
+        "lat": 52.4,
+        "lng": -1.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4058,8 +4058,8 @@
         "pos_active_pct": 9.24,
         "posms": 107,
         "posms_pct": 1.9692,
-        "lat": null,
-        "lng": null,
+        "lat": 56.5,
+        "lng": -4.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4080,8 +4080,8 @@
         "pos_active_pct": 8.82,
         "posms": 62,
         "posms_pct": 1.828,
-        "lat": null,
-        "lng": null,
+        "lat": 52.1,
+        "lng": -3.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4102,8 +4102,8 @@
         "pos_active_pct": 8.82,
         "posms": 36,
         "posms_pct": 1.7789,
-        "lat": null,
-        "lng": null,
+        "lat": 54.6,
+        "lng": -6.7,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4147,8 +4147,8 @@
         "pos_active_pct": 15.86,
         "posms": 222,
         "posms_pct": 1.5559,
-        "lat": null,
-        "lng": null,
+        "lat": 48.7,
+        "lng": 9.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4169,8 +4169,8 @@
         "pos_active_pct": 15.86,
         "posms": 274,
         "posms_pct": 1.5559,
-        "lat": null,
-        "lng": null,
+        "lat": 48.1,
+        "lng": 11.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4191,8 +4191,8 @@
         "pos_active_pct": 18.37,
         "posms": 82,
         "posms_pct": 1.8664,
-        "lat": null,
-        "lng": null,
+        "lat": 52.5,
+        "lng": 13.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4213,8 +4213,8 @@
         "pos_active_pct": 16.7,
         "posms": 396,
         "posms_pct": 1.6383,
-        "lat": null,
-        "lng": null,
+        "lat": 51.5,
+        "lng": 7.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4235,8 +4235,8 @@
         "pos_active_pct": 16.7,
         "posms": 811,
         "posms_pct": 1.6383,
-        "lat": null,
-        "lng": null,
+        "lat": 52.0,
+        "lng": 11.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4280,8 +4280,8 @@
         "pos_active_pct": 31.61,
         "posms": 501,
         "posms_pct": 2.7739,
-        "lat": null,
-        "lng": null,
+        "lat": 48.9,
+        "lng": 2.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4302,8 +4302,8 @@
         "pos_active_pct": 29.5,
         "posms": 284,
         "posms_pct": 2.492,
-        "lat": null,
-        "lng": null,
+        "lat": 45.7,
+        "lng": 4.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4324,8 +4324,8 @@
         "pos_active_pct": 33.11,
         "posms": 248,
         "posms_pct": 2.9058,
-        "lat": null,
-        "lng": null,
+        "lat": 43.9,
+        "lng": 6.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4346,8 +4346,8 @@
         "pos_active_pct": 31.61,
         "posms": 254,
         "posms_pct": 2.6696,
-        "lat": null,
-        "lng": null,
+        "lat": 43.6,
+        "lng": 3.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4368,8 +4368,8 @@
         "pos_active_pct": 30.1,
         "posms": 1209,
         "posms_pct": 2.5449,
-        "lat": null,
-        "lng": null,
+        "lat": 47.0,
+        "lng": 1.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4413,8 +4413,8 @@
         "pos_active_pct": 25.4,
         "posms": 490,
         "posms_pct": 3.6024,
-        "lat": null,
-        "lng": null,
+        "lat": 41.4,
+        "lng": 2.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4435,8 +4435,8 @@
         "pos_active_pct": 26.67,
         "posms": 450,
         "posms_pct": 3.7828,
-        "lat": null,
-        "lng": null,
+        "lat": 40.4,
+        "lng": -3.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4457,8 +4457,8 @@
         "pos_active_pct": 26.67,
         "posms": 561,
         "posms_pct": 3.6668,
-        "lat": null,
-        "lng": null,
+        "lat": 37.3,
+        "lng": -6.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4479,8 +4479,8 @@
         "pos_active_pct": 25.4,
         "posms": 326,
         "posms_pct": 3.4915,
-        "lat": null,
-        "lng": null,
+        "lat": 39.5,
+        "lng": -0.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4501,8 +4501,8 @@
         "pos_active_pct": 24.89,
         "posms": 1155,
         "posms_pct": 3.3143,
-        "lat": null,
-        "lng": null,
+        "lat": 42.0,
+        "lng": -2.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4546,8 +4546,8 @@
         "pos_active_pct": 26.98,
         "posms": 297,
         "posms_pct": 4.5894,
-        "lat": null,
-        "lng": null,
+        "lat": 38.7,
+        "lng": -9.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4568,8 +4568,8 @@
         "pos_active_pct": 25.7,
         "posms": 259,
         "posms_pct": 4.1178,
-        "lat": null,
-        "lng": null,
+        "lat": 41.5,
+        "lng": -8.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4590,8 +4590,8 @@
         "pos_active_pct": 25.7,
         "posms": 126,
         "posms_pct": 4.1192,
-        "lat": null,
-        "lng": null,
+        "lat": 39.8,
+        "lng": -8.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4612,8 +4612,8 @@
         "pos_active_pct": 25.7,
         "posms": 52,
         "posms_pct": 4.1178,
-        "lat": null,
-        "lng": null,
+        "lat": 38.0,
+        "lng": -7.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4634,8 +4634,8 @@
         "pos_active_pct": 26.98,
         "posms": 40,
         "posms_pct": 4.4255,
-        "lat": null,
-        "lng": null,
+        "lat": 37.1,
+        "lng": -8.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4679,8 +4679,8 @@
         "pos_active_pct": 21.8,
         "posms": 532,
         "posms_pct": 2.5451,
-        "lat": null,
-        "lng": null,
+        "lat": 45.5,
+        "lng": 9.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4701,8 +4701,8 @@
         "pos_active_pct": 21.36,
         "posms": 412,
         "posms_pct": 2.4112,
-        "lat": null,
-        "lng": null,
+        "lat": 45.4,
+        "lng": 12.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4723,8 +4723,8 @@
         "pos_active_pct": 21.8,
         "posms": 467,
         "posms_pct": 2.4602,
-        "lat": null,
-        "lng": null,
+        "lat": 41.9,
+        "lng": 12.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4745,8 +4745,8 @@
         "pos_active_pct": 22.89,
         "posms": 569,
         "posms_pct": 2.4951,
-        "lat": null,
-        "lng": null,
+        "lat": 40.8,
+        "lng": 14.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -4767,8 +4767,8 @@
         "pos_active_pct": 22.89,
         "posms": 379,
         "posms_pct": 2.4945,
-        "lat": null,
-        "lng": null,
+        "lat": 37.5,
+        "lng": 14.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4812,8 +4812,8 @@
         "pos_active_pct": 20.3,
         "posms": 1310,
         "posms_pct": 7.2755,
-        "lat": null,
-        "lng": null,
+        "lat": 50.5,
+        "lng": 4.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4857,8 +4857,8 @@
         "pos_active_pct": 14.7,
         "posms": 423,
         "posms_pct": 3.528,
-        "lat": null,
-        "lng": null,
+        "lat": 52.1,
+        "lng": 5.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4902,8 +4902,8 @@
         "pos_active_pct": 17.6,
         "posms": 1098,
         "posms_pct": 6.864,
-        "lat": null,
-        "lng": null,
+        "lat": 47.5,
+        "lng": 14.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4947,8 +4947,8 @@
         "pos_active_pct": 18.8,
         "posms": 404,
         "posms_pct": 5.0459,
-        "lat": null,
-        "lng": null,
+        "lat": 46.8,
+        "lng": 8.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -4992,8 +4992,8 @@
         "pos_active_pct": 6.2,
         "posms": 66,
         "posms_pct": 1.3169,
-        "lat": null,
-        "lng": null,
+        "lat": 60.5,
+        "lng": 8.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5037,8 +5037,8 @@
         "pos_active_pct": 5.5,
         "posms": 70,
         "posms_pct": 1.1682,
-        "lat": null,
-        "lng": null,
+        "lat": 60.1,
+        "lng": 18.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5082,8 +5082,8 @@
         "pos_active_pct": 11.9,
         "posms": 171,
         "posms_pct": 2.856,
-        "lat": null,
-        "lng": null,
+        "lat": 61.9,
+        "lng": 25.7,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5127,8 +5127,8 @@
         "pos_active_pct": 10.2,
         "posms": 104,
         "posms_pct": 2.1665,
-        "lat": null,
-        "lng": null,
+        "lat": 56.3,
+        "lng": 9.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5172,8 +5172,8 @@
         "pos_active_pct": 14.1,
         "posms": 404,
         "posms_pct": 5.0534,
-        "lat": null,
-        "lng": null,
+        "lat": 53.4,
+        "lng": -8.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5217,8 +5217,8 @@
         "pos_active_pct": 21.8,
         "posms": 335,
         "posms_pct": 18.5845,
-        "lat": null,
-        "lng": null,
+        "lat": 35.9,
+        "lng": 14.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5262,8 +5262,8 @@
         "pos_active_pct": 18.72,
         "posms": 390,
         "posms_pct": 3.0928,
-        "lat": null,
-        "lng": null,
+        "lat": 52.2,
+        "lng": 21.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5284,8 +5284,8 @@
         "pos_active_pct": 20.68,
         "posms": 380,
         "posms_pct": 3.5177,
-        "lat": null,
-        "lng": null,
+        "lat": 50.3,
+        "lng": 19.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5306,8 +5306,8 @@
         "pos_active_pct": 19.7,
         "posms": 264,
         "posms_pct": 3.2537,
-        "lat": null,
-        "lng": null,
+        "lat": 50.1,
+        "lng": 20.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5328,8 +5328,8 @@
         "pos_active_pct": 19.7,
         "posms": 264,
         "posms_pct": 3.2537,
-        "lat": null,
-        "lng": null,
+        "lat": 52.4,
+        "lng": 17.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5350,8 +5350,8 @@
         "pos_active_pct": 19.7,
         "posms": 1592,
         "posms_pct": 3.1591,
-        "lat": null,
-        "lng": null,
+        "lat": 52.0,
+        "lng": 18.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5395,8 +5395,8 @@
         "pos_active_pct": 24.22,
         "posms": 787,
         "posms_pct": 12.1089,
-        "lat": null,
-        "lng": null,
+        "lat": 44.4,
+        "lng": 26.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5417,8 +5417,8 @@
         "pos_active_pct": 25.5,
         "posms": 1217,
         "posms_pct": 12.4848,
-        "lat": null,
-        "lng": null,
+        "lat": 44.1,
+        "lng": 25.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5439,8 +5439,8 @@
         "pos_active_pct": 25.5,
         "posms": 974,
         "posms_pct": 12.4848,
-        "lat": null,
-        "lng": null,
+        "lat": 46.7,
+        "lng": 23.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5461,8 +5461,8 @@
         "pos_active_pct": 26.78,
         "posms": 1335,
         "posms_pct": 12.834,
-        "lat": null,
-        "lng": null,
+        "lat": 47.2,
+        "lng": 26.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -5483,8 +5483,8 @@
         "pos_active_pct": 25.5,
         "posms": 3814,
         "posms_pct": 12.4848,
-        "lat": null,
-        "lng": null,
+        "lat": 45.8,
+        "lng": 24.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5528,8 +5528,8 @@
         "pos_active_pct": 24.2,
         "posms": 4743,
         "posms_pct": 13.552,
-        "lat": null,
-        "lng": null,
+        "lat": 49.8,
+        "lng": 15.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5573,8 +5573,8 @@
         "pos_active_pct": 28.3,
         "posms": 6263,
         "posms_pct": 22.3683,
-        "lat": null,
-        "lng": null,
+        "lat": 47.2,
+        "lng": 19.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5618,8 +5618,8 @@
         "pos_active_pct": 24.9,
         "posms": 2925,
         "posms_pct": 16.2473,
-        "lat": null,
-        "lng": null,
+        "lat": 48.7,
+        "lng": 19.7,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5663,8 +5663,8 @@
         "pos_active_pct": 19.6,
         "posms": 604,
         "posms_pct": 10.976,
-        "lat": null,
-        "lng": null,
+        "lat": 46.2,
+        "lng": 14.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5708,8 +5708,8 @@
         "pos_active_pct": 35.8,
         "posms": 9156,
         "posms_pct": 30.5195,
-        "lat": null,
-        "lng": null,
+        "lat": 42.7,
+        "lng": 25.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5753,8 +5753,8 @@
         "pos_active_pct": 35.8,
         "posms": 8489,
         "posms_pct": 28.2963,
-        "lat": null,
-        "lng": null,
+        "lat": 44.0,
+        "lng": 21.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5798,8 +5798,8 @@
         "pos_active_pct": 30.0,
         "posms": 1344,
         "posms_pct": 16.8,
-        "lat": null,
-        "lng": null,
+        "lat": 42.6,
+        "lng": 20.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5843,8 +5843,8 @@
         "pos_active_pct": 39.5,
         "posms": 3367,
         "posms_pct": 28.0608,
-        "lat": null,
-        "lng": null,
+        "lat": 41.6,
+        "lng": 21.7,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5888,8 +5888,8 @@
         "pos_active_pct": 17.8,
         "posms": 1062,
         "posms_pct": 10.6159,
-        "lat": null,
-        "lng": null,
+        "lat": 41.1,
+        "lng": 20.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5933,8 +5933,8 @@
         "pos_active_pct": 26.7,
         "posms": 2403,
         "posms_pct": 20.025,
-        "lat": null,
-        "lng": null,
+        "lat": 47.4,
+        "lng": 28.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -5978,8 +5978,8 @@
         "pos_active_pct": 21.3,
         "posms": 1073,
         "posms_pct": 4.0655,
-        "lat": null,
-        "lng": null,
+        "lat": 49.0,
+        "lng": 36.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6000,8 +6000,8 @@
         "pos_active_pct": 20.24,
         "posms": 541,
         "posms_pct": 3.7565,
-        "lat": null,
-        "lng": null,
+        "lat": 50.5,
+        "lng": 30.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6022,8 +6022,8 @@
         "pos_active_pct": 21.3,
         "posms": 569,
         "posms_pct": 3.9533,
-        "lat": null,
-        "lng": null,
+        "lat": 46.5,
+        "lng": 30.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6044,8 +6044,8 @@
         "pos_active_pct": 22.37,
         "posms": 1065,
         "posms_pct": 4.0337,
-        "lat": null,
-        "lng": null,
+        "lat": 49.8,
+        "lng": 24.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6066,8 +6066,8 @@
         "pos_active_pct": 21.3,
         "posms": 474,
         "posms_pct": 3.9533,
-        "lat": null,
-        "lng": null,
+        "lat": 51.5,
+        "lng": 31.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6088,8 +6088,8 @@
         "pos_active_pct": 21.3,
         "posms": 1044,
         "posms_pct": 3.9533,
-        "lat": null,
-        "lng": null,
+        "lat": 48.4,
+        "lng": 31.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6133,8 +6133,8 @@
         "pos_active_pct": 21.4,
         "posms": 354,
         "posms_pct": 10.1115,
-        "lat": null,
-        "lng": null,
+        "lat": 58.6,
+        "lng": 25.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6178,8 +6178,8 @@
         "pos_active_pct": 27.0,
         "posms": 708,
         "posms_pct": 14.1588,
-        "lat": null,
-        "lng": null,
+        "lat": 56.9,
+        "lng": 24.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6223,8 +6223,8 @@
         "pos_active_pct": 25.5,
         "posms": 964,
         "posms_pct": 12.0488,
-        "lat": null,
-        "lng": null,
+        "lat": 55.2,
+        "lng": 23.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6268,8 +6268,8 @@
         "pos_active_pct": 27.9,
         "posms": 3277,
         "posms_pct": 18.2048,
-        "lat": null,
-        "lng": null,
+        "lat": 42.3,
+        "lng": 43.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6313,8 +6313,8 @@
         "pos_active_pct": 24.3,
         "posms": 1739,
         "posms_pct": 14.4925,
-        "lat": null,
-        "lng": null,
+        "lat": 40.1,
+        "lng": 45.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6358,8 +6358,8 @@
         "pos_active_pct": 13.3,
         "posms": 1046,
         "posms_pct": 6.9745,
-        "lat": null,
-        "lng": null,
+        "lat": 40.1,
+        "lng": 47.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6403,8 +6403,8 @@
         "pos_active_pct": 18.7,
         "posms": 2765,
         "posms_pct": 7.8989,
-        "lat": null,
-        "lng": null,
+        "lat": 48.0,
+        "lng": 66.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6448,8 +6448,8 @@
         "pos_active_pct": 8.0,
         "posms": 625,
         "posms_pct": 2.5,
-        "lat": null,
-        "lng": null,
+        "lat": 41.4,
+        "lng": 64.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6493,8 +6493,8 @@
         "pos_active_pct": 27.8,
         "posms": 691,
         "posms_pct": 19.7491,
-        "lat": null,
-        "lng": null,
+        "lat": 35.1,
+        "lng": 33.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6538,8 +6538,8 @@
         "pos_active_pct": 18.37,
         "posms": 7694,
         "posms_pct": 16.4393,
-        "lat": null,
-        "lng": null,
+        "lat": -26.1,
+        "lng": 28.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6560,8 +6560,8 @@
         "pos_active_pct": 19.25,
         "posms": 3721,
         "posms_pct": 17.2268,
-        "lat": null,
-        "lng": null,
+        "lat": -33.9,
+        "lng": 18.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6582,8 +6582,8 @@
         "pos_active_pct": 17.5,
         "posms": 5437,
         "posms_pct": 15.1022,
-        "lat": null,
-        "lng": null,
+        "lat": -29.8,
+        "lng": 31.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6604,8 +6604,8 @@
         "pos_active_pct": 17.15,
         "posms": 3463,
         "posms_pct": 14.7997,
-        "lat": null,
-        "lng": null,
+        "lat": -31.5,
+        "lng": 27.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6626,8 +6626,8 @@
         "pos_active_pct": 16.63,
         "posms": 7492,
         "posms_pct": 14.3516,
-        "lat": null,
-        "lng": null,
+        "lat": -26.0,
+        "lng": 26.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6671,8 +6671,8 @@
         "pos_active_pct": 8.1,
         "posms": 1564,
         "posms_pct": 8.6872,
-        "lat": null,
-        "lng": null,
+        "lat": -19.0,
+        "lng": 29.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6716,8 +6716,8 @@
         "pos_active_pct": 10.8,
         "posms": 2386,
         "posms_pct": 10.8475,
-        "lat": null,
-        "lng": null,
+        "lat": -13.1,
+        "lng": 27.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6761,8 +6761,8 @@
         "pos_active_pct": 12.0,
         "posms": 922,
         "posms_pct": 11.52,
-        "lat": null,
-        "lng": null,
+        "lat": -22.0,
+        "lng": 17.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6806,8 +6806,8 @@
         "pos_active_pct": 7.4,
         "posms": 1262,
         "posms_pct": 6.3085,
-        "lat": null,
-        "lng": null,
+        "lat": -18.7,
+        "lng": 35.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6851,8 +6851,8 @@
         "pos_active_pct": 6.3,
         "posms": 693,
         "posms_pct": 5.7725,
-        "lat": null,
-        "lng": null,
+        "lat": -13.3,
+        "lng": 34.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6896,8 +6896,8 @@
         "pos_active_pct": 13.4,
         "posms": 1029,
         "posms_pct": 12.864,
-        "lat": null,
-        "lng": null,
+        "lat": -22.3,
+        "lng": 24.7,
         "data_type": "estimated",
         "cities": {}
       }
@@ -6941,8 +6941,8 @@
         "pos_active_pct": 6.51,
         "posms": 358,
         "posms_pct": 4.0694,
-        "lat": null,
-        "lng": null,
+        "lat": -1.3,
+        "lng": 36.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6963,8 +6963,8 @@
         "pos_active_pct": 6.2,
         "posms": 358,
         "posms_pct": 3.7262,
-        "lat": null,
-        "lng": null,
+        "lat": -0.5,
+        "lng": 37.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -6985,8 +6985,8 @@
         "pos_active_pct": 6.2,
         "posms": 268,
         "posms_pct": 3.7262,
-        "lat": null,
-        "lng": null,
+        "lat": -3.2,
+        "lng": 40.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7007,8 +7007,8 @@
         "pos_active_pct": 6.2,
         "posms": 555,
         "posms_pct": 3.652,
-        "lat": null,
-        "lng": null,
+        "lat": -0.1,
+        "lng": 34.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7029,8 +7029,8 @@
         "pos_active_pct": 6.2,
         "posms": 656,
         "posms_pct": 3.7262,
-        "lat": null,
-        "lng": null,
+        "lat": 0.5,
+        "lng": 36.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7051,8 +7051,8 @@
         "pos_active_pct": 6.2,
         "posms": 789,
         "posms_pct": 3.6519,
-        "lat": null,
-        "lng": null,
+        "lat": 0.0,
+        "lng": 37.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7096,8 +7096,8 @@
         "pos_active_pct": 5.25,
         "posms": 114,
         "posms_pct": 2.1148,
-        "lat": null,
-        "lng": null,
+        "lat": -6.8,
+        "lng": 39.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7118,8 +7118,8 @@
         "pos_active_pct": 5.0,
         "posms": 133,
         "posms_pct": 1.9692,
-        "lat": null,
-        "lng": null,
+        "lat": -3.4,
+        "lng": 36.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7140,8 +7140,8 @@
         "pos_active_pct": 5.0,
         "posms": 87,
         "posms_pct": 1.9253,
-        "lat": null,
-        "lng": null,
+        "lat": -5.8,
+        "lng": 35.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7162,8 +7162,8 @@
         "pos_active_pct": 5.0,
         "posms": 156,
         "posms_pct": 1.9255,
-        "lat": null,
-        "lng": null,
+        "lat": -9.3,
+        "lng": 35.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7184,8 +7184,8 @@
         "pos_active_pct": 5.0,
         "posms": 177,
         "posms_pct": 1.9697,
-        "lat": null,
-        "lng": null,
+        "lat": -6.2,
+        "lng": 38.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7206,8 +7206,8 @@
         "pos_active_pct": 4.9,
         "posms": 212,
         "posms_pct": 1.8874,
-        "lat": null,
-        "lng": null,
+        "lat": -6.4,
+        "lng": 34.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7251,8 +7251,8 @@
         "pos_active_pct": 4.8,
         "posms": 1432,
         "posms_pct": 4.092,
-        "lat": null,
-        "lng": null,
+        "lat": 1.4,
+        "lng": 32.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7296,8 +7296,8 @@
         "pos_active_pct": 2.9,
         "posms": 548,
         "posms_pct": 1.3703,
-        "lat": null,
-        "lng": null,
+        "lat": 9.1,
+        "lng": 40.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7341,8 +7341,8 @@
         "pos_active_pct": 4.3,
         "posms": 337,
         "posms_pct": 2.8057,
-        "lat": null,
-        "lng": null,
+        "lat": -1.9,
+        "lng": 29.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7386,8 +7386,8 @@
         "pos_active_pct": 6.3,
         "posms": 238,
         "posms_pct": 2.9768,
-        "lat": null,
-        "lng": null,
+        "lat": -3.4,
+        "lng": 30.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7431,8 +7431,8 @@
         "pos_active_pct": 15.0,
         "posms": 197,
         "posms_pct": 7.866,
-        "lat": null,
-        "lng": null,
+        "lat": 11.8,
+        "lng": 42.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7476,8 +7476,8 @@
         "pos_active_pct": 12.0,
         "posms": 450,
         "posms_pct": 3.75,
-        "lat": null,
-        "lng": null,
+        "lat": 5.2,
+        "lng": 46.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7521,8 +7521,8 @@
         "pos_active_pct": 10.0,
         "posms": 195,
         "posms_pct": 3.9,
-        "lat": null,
-        "lng": null,
+        "lat": 15.2,
+        "lng": 39.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7566,8 +7566,8 @@
         "pos_active_pct": 2.4,
         "posms": 314,
         "posms_pct": 0.7142,
-        "lat": null,
-        "lng": null,
+        "lat": 6.5,
+        "lng": 3.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7588,8 +7588,8 @@
         "pos_active_pct": 2.4,
         "posms": 163,
         "posms_pct": 0.6803,
-        "lat": null,
-        "lng": null,
+        "lat": 4.8,
+        "lng": 7.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7610,8 +7610,8 @@
         "pos_active_pct": 2.4,
         "posms": 136,
         "posms_pct": 0.6804,
-        "lat": null,
-        "lng": null,
+        "lat": 5.5,
+        "lng": 8.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7632,8 +7632,8 @@
         "pos_active_pct": 2.4,
         "posms": 285,
         "posms_pct": 0.6469,
-        "lat": null,
-        "lng": null,
+        "lat": 12.0,
+        "lng": 8.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7654,8 +7654,8 @@
         "pos_active_pct": 2.4,
         "posms": 186,
         "posms_pct": 0.6635,
-        "lat": null,
-        "lng": null,
+        "lat": 9.1,
+        "lng": 7.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -7676,8 +7676,8 @@
         "pos_active_pct": 2.4,
         "posms": 259,
         "posms_pct": 0.6469,
-        "lat": null,
-        "lng": null,
+        "lat": 11.0,
+        "lng": 13.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7721,8 +7721,8 @@
         "pos_active_pct": 1.9,
         "posms": 510,
         "posms_pct": 1.1332,
-        "lat": null,
-        "lng": null,
+        "lat": 7.9,
+        "lng": -1.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7766,8 +7766,8 @@
         "pos_active_pct": 6.2,
         "posms": 1618,
         "posms_pct": 4.0455,
-        "lat": null,
-        "lng": null,
+        "lat": 7.5,
+        "lng": -5.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7811,8 +7811,8 @@
         "pos_active_pct": 4.5,
         "posms": 630,
         "posms_pct": 2.52,
-        "lat": null,
-        "lng": null,
+        "lat": 14.5,
+        "lng": -14.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7856,8 +7856,8 @@
         "pos_active_pct": 12.0,
         "posms": 1021,
         "posms_pct": 5.67,
-        "lat": null,
-        "lng": null,
+        "lat": 11.0,
+        "lng": -10.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7901,8 +7901,8 @@
         "pos_active_pct": 5.3,
         "posms": 500,
         "posms_pct": 2.7793,
-        "lat": null,
-        "lng": null,
+        "lat": 17.6,
+        "lng": -4.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7946,8 +7946,8 @@
         "pos_active_pct": 6.3,
         "posms": 635,
         "posms_pct": 3.528,
-        "lat": null,
-        "lng": null,
+        "lat": 12.4,
+        "lng": -1.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -7991,8 +7991,8 @@
         "pos_active_pct": 4.0,
         "posms": 286,
         "posms_pct": 2.3856,
-        "lat": null,
-        "lng": null,
+        "lat": 9.3,
+        "lng": 2.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8036,8 +8036,8 @@
         "pos_active_pct": 3.9,
         "posms": 175,
         "posms_pct": 2.184,
-        "lat": null,
-        "lng": null,
+        "lat": 8.6,
+        "lng": 0.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8081,8 +8081,8 @@
         "pos_active_pct": 8.7,
         "posms": 329,
         "posms_pct": 4.1108,
-        "lat": null,
-        "lng": null,
+        "lat": 8.5,
+        "lng": -11.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8126,8 +8126,8 @@
         "pos_active_pct": 8.9,
         "posms": 210,
         "posms_pct": 4.2053,
-        "lat": null,
-        "lng": null,
+        "lat": 13.5,
+        "lng": -15.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8171,8 +8171,8 @@
         "pos_active_pct": 6.9,
         "posms": 135,
         "posms_pct": 2.691,
-        "lat": null,
-        "lng": null,
+        "lat": 21.0,
+        "lng": -10.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8216,8 +8216,8 @@
         "pos_active_pct": 5.7,
         "posms": 241,
         "posms_pct": 2.4077,
-        "lat": null,
-        "lng": null,
+        "lat": 17.6,
+        "lng": 8.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8261,8 +8261,8 @@
         "pos_active_pct": 4.3,
         "posms": 842,
         "posms_pct": 2.8057,
-        "lat": null,
-        "lng": null,
+        "lat": 3.9,
+        "lng": 11.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8306,8 +8306,8 @@
         "pos_active_pct": 10.6,
         "posms": 415,
         "posms_pct": 6.9165,
-        "lat": null,
-        "lng": null,
+        "lat": -0.8,
+        "lng": 11.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8351,8 +8351,8 @@
         "pos_active_pct": 10.0,
         "posms": 168,
         "posms_pct": 5.6,
-        "lat": null,
-        "lng": null,
+        "lat": 1.7,
+        "lng": 10.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8396,8 +8396,8 @@
         "pos_active_pct": 21.42,
         "posms": 322,
         "posms_pct": 0.7165,
-        "lat": null,
-        "lng": null,
+        "lat": 30.0,
+        "lng": 31.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8418,8 +8418,8 @@
         "pos_active_pct": 20.4,
         "posms": 491,
         "posms_pct": 0.6821,
-        "lat": null,
-        "lng": null,
+        "lat": 30.8,
+        "lng": 31.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8440,8 +8440,8 @@
         "pos_active_pct": 21.42,
         "posms": 304,
         "posms_pct": 0.6755,
-        "lat": null,
-        "lng": null,
+        "lat": 26.0,
+        "lng": 32.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8462,8 +8462,8 @@
         "pos_active_pct": 20.4,
         "posms": 123,
         "posms_pct": 0.6821,
-        "lat": null,
-        "lng": null,
+        "lat": 30.5,
+        "lng": 32.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8507,8 +8507,8 @@
         "pos_active_pct": 15.85,
         "posms": 303,
         "posms_pct": 0.8423,
-        "lat": null,
-        "lng": null,
+        "lat": 36.7,
+        "lng": 3.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8529,8 +8529,8 @@
         "pos_active_pct": 15.1,
         "posms": 123,
         "posms_pct": 0.7658,
-        "lat": null,
-        "lng": null,
+        "lat": 36.4,
+        "lng": 6.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8551,8 +8551,8 @@
         "pos_active_pct": 15.1,
         "posms": 92,
         "posms_pct": 0.7652,
-        "lat": null,
-        "lng": null,
+        "lat": 35.7,
+        "lng": 1.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8573,8 +8573,8 @@
         "pos_active_pct": 14.34,
         "posms": 111,
         "posms_pct": 0.6929,
-        "lat": null,
-        "lng": null,
+        "lat": 27.0,
+        "lng": 2.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8618,8 +8618,8 @@
         "pos_active_pct": 9.77,
         "posms": 54,
         "posms_pct": 0.3452,
-        "lat": null,
-        "lng": null,
+        "lat": 33.6,
+        "lng": -7.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8640,8 +8640,8 @@
         "pos_active_pct": 9.3,
         "posms": 22,
         "posms_pct": 0.3102,
-        "lat": null,
-        "lng": null,
+        "lat": 34.0,
+        "lng": -6.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8662,8 +8662,8 @@
         "pos_active_pct": 9.3,
         "posms": 24,
         "posms_pct": 0.3102,
-        "lat": null,
-        "lng": null,
+        "lat": 34.0,
+        "lng": -5.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8684,8 +8684,8 @@
         "pos_active_pct": 9.3,
         "posms": 28,
         "posms_pct": 0.3102,
-        "lat": null,
-        "lng": null,
+        "lat": 31.6,
+        "lng": -8.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -8706,8 +8706,8 @@
         "pos_active_pct": 9.11,
         "posms": 73,
         "posms_pct": 0.287,
-        "lat": null,
-        "lng": null,
+        "lat": 31.0,
+        "lng": -5.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8751,8 +8751,8 @@
         "pos_active_pct": 19.4,
         "posms": 1562,
         "posms_pct": 5.207,
-        "lat": null,
-        "lng": null,
+        "lat": 33.9,
+        "lng": 9.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8796,8 +8796,8 @@
         "pos_active_pct": 16.9,
         "posms": 951,
         "posms_pct": 5.2812,
-        "lat": null,
-        "lng": null,
+        "lat": 26.3,
+        "lng": 17.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8841,8 +8841,8 @@
         "pos_active_pct": 5.0,
         "posms": 1342,
         "posms_pct": 2.982,
-        "lat": null,
-        "lng": null,
+        "lat": -4.0,
+        "lng": 21.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8886,8 +8886,8 @@
         "pos_active_pct": 7.0,
         "posms": 1252,
         "posms_pct": 4.1748,
-        "lat": null,
-        "lng": null,
+        "lat": -11.2,
+        "lng": 17.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8931,8 +8931,8 @@
         "pos_active_pct": 8.0,
         "posms": 250,
         "posms_pct": 3.12,
-        "lat": null,
-        "lng": null,
+        "lat": 4.9,
+        "lng": 31.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -8976,8 +8976,8 @@
         "pos_active_pct": 8.0,
         "posms": 780,
         "posms_pct": 3.12,
-        "lat": null,
-        "lng": null,
+        "lat": 12.9,
+        "lng": 30.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9021,8 +9021,8 @@
         "pos_active_pct": 13.6,
         "posms": 1569,
         "posms_pct": 7.1318,
-        "lat": null,
-        "lng": null,
+        "lat": -18.8,
+        "lng": 46.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9066,8 +9066,8 @@
         "pos_active_pct": 15.8,
         "posms": 847,
         "posms_pct": 16.9455,
-        "lat": null,
-        "lng": null,
+        "lat": -20.3,
+        "lng": 57.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9111,8 +9111,8 @@
         "pos_active_pct": 12.0,
         "posms": 68,
         "posms_pct": 5.67,
-        "lat": null,
-        "lng": null,
+        "lat": -12.8,
+        "lng": 45.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9156,8 +9156,8 @@
         "pos_active_pct": 18.0,
         "posms": 175.5,
         "posms_pct": 7.02,
-        "lat": null,
-        "lng": null,
+        "lat": -21.1,
+        "lng": 55.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9201,8 +9201,8 @@
         "pos_active_pct": 4.7,
         "posms": 25,
         "posms_pct": 1.6845,
-        "lat": null,
-        "lng": null,
+        "lat": -11.9,
+        "lng": 43.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9246,8 +9246,8 @@
         "pos_active_pct": 9.97,
         "posms": 109,
         "posms_pct": 0.5057,
-        "lat": null,
-        "lng": null,
+        "lat": 24.7,
+        "lng": 46.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9268,8 +9268,8 @@
         "pos_active_pct": 9.5,
         "posms": 89,
         "posms_pct": 0.4818,
-        "lat": null,
-        "lng": null,
+        "lat": 21.4,
+        "lng": 39.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9290,8 +9290,8 @@
         "pos_active_pct": 9.02,
         "posms": 51,
         "posms_pct": 0.4576,
-        "lat": null,
-        "lng": null,
+        "lat": 26.4,
+        "lng": 50.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9312,8 +9312,8 @@
         "pos_active_pct": 9.5,
         "posms": 37,
         "posms_pct": 0.4584,
-        "lat": null,
-        "lng": null,
+        "lat": 24.5,
+        "lng": 39.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9334,8 +9334,8 @@
         "pos_active_pct": 9.31,
         "posms": 94,
         "posms_pct": 0.4495,
-        "lat": null,
-        "lng": null,
+        "lat": 22.0,
+        "lng": 44.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9379,8 +9379,8 @@
         "pos_active_pct": 5.5,
         "posms": 37,
         "posms_pct": 0.3807,
-        "lat": null,
-        "lng": null,
+        "lat": 25.2,
+        "lng": 55.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9401,8 +9401,8 @@
         "pos_active_pct": 5.22,
         "posms": 29,
         "posms_pct": 0.3466,
-        "lat": null,
-        "lng": null,
+        "lat": 24.5,
+        "lng": 54.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9423,8 +9423,8 @@
         "pos_active_pct": 5.78,
         "posms": 36,
         "posms_pct": 0.3676,
-        "lat": null,
-        "lng": null,
+        "lat": 25.3,
+        "lng": 55.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9468,8 +9468,8 @@
         "pos_active_pct": 14.6,
         "posms": 569,
         "posms_pct": 5.694,
-        "lat": null,
-        "lng": null,
+        "lat": 29.3,
+        "lng": 47.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9513,8 +9513,8 @@
         "pos_active_pct": 10.0,
         "posms": 165,
         "posms_pct": 4.725,
-        "lat": null,
-        "lng": null,
+        "lat": 26.0,
+        "lng": 50.6,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9558,8 +9558,8 @@
         "pos_active_pct": 8.6,
         "posms": 115,
         "posms_pct": 2.3082,
-        "lat": null,
-        "lng": null,
+        "lat": 25.4,
+        "lng": 51.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9603,8 +9603,8 @@
         "pos_active_pct": 6.6,
         "posms": 177,
         "posms_pct": 1.7714,
-        "lat": null,
-        "lng": null,
+        "lat": 21.5,
+        "lng": 55.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9648,8 +9648,8 @@
         "pos_active_pct": 17.74,
         "posms": 119,
         "posms_pct": 0.9422,
-        "lat": null,
-        "lng": null,
+        "lat": 33.3,
+        "lng": 44.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9670,8 +9670,8 @@
         "pos_active_pct": 16.9,
         "posms": 116,
         "posms_pct": 0.857,
-        "lat": null,
-        "lng": null,
+        "lat": 31.0,
+        "lng": 46.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9692,8 +9692,8 @@
         "pos_active_pct": 16.05,
         "posms": 49,
         "posms_pct": 0.7756,
-        "lat": null,
-        "lng": null,
+        "lat": 36.2,
+        "lng": 44.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9714,8 +9714,8 @@
         "pos_active_pct": 16.9,
         "posms": 108,
         "posms_pct": 0.8564,
-        "lat": null,
-        "lng": null,
+        "lat": 34.6,
+        "lng": 42.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9759,8 +9759,8 @@
         "pos_active_pct": 26.6,
         "posms": 2593.5,
         "posms_pct": 10.374,
-        "lat": null,
-        "lng": null,
+        "lat": 30.6,
+        "lng": 36.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9804,8 +9804,8 @@
         "pos_active_pct": 37.2,
         "posms": 1741,
         "posms_pct": 14.508,
-        "lat": null,
-        "lng": null,
+        "lat": 33.9,
+        "lng": 35.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9849,8 +9849,8 @@
         "pos_active_pct": 28.1,
         "posms": 603,
         "posms_pct": 7.542,
-        "lat": null,
-        "lng": null,
+        "lat": 31.9,
+        "lng": 35.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9894,8 +9894,8 @@
         "pos_active_pct": 18.0,
         "posms": 864,
         "posms_pct": 4.32,
-        "lat": null,
-        "lng": null,
+        "lat": 15.6,
+        "lng": 48.5,
         "data_type": "estimated",
         "cities": {}
       }
@@ -9939,8 +9939,8 @@
         "pos_active_pct": 12.5,
         "posms": 1197,
         "posms_pct": 1.7734,
-        "lat": null,
-        "lng": null,
+        "lat": 23.8,
+        "lng": 90.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9961,8 +9961,8 @@
         "pos_active_pct": 12.5,
         "posms": 859,
         "posms_pct": 1.7185,
-        "lat": null,
-        "lng": null,
+        "lat": 22.3,
+        "lng": 91.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -9983,8 +9983,8 @@
         "pos_active_pct": 13.13,
         "posms": 525,
         "posms_pct": 1.7484,
-        "lat": null,
-        "lng": null,
+        "lat": 24.4,
+        "lng": 88.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10005,8 +10005,8 @@
         "pos_active_pct": 12.5,
         "posms": 374,
         "posms_pct": 1.6642,
-        "lat": null,
-        "lng": null,
+        "lat": 22.8,
+        "lng": 89.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10027,8 +10027,8 @@
         "pos_active_pct": 12.5,
         "posms": 291,
         "posms_pct": 1.6641,
-        "lat": null,
-        "lng": null,
+        "lat": 24.9,
+        "lng": 91.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10049,8 +10049,8 @@
         "pos_active_pct": 12.5,
         "posms": 1040,
         "posms_pct": 1.6644,
-        "lat": null,
-        "lng": null,
+        "lat": 23.7,
+        "lng": 90.4,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10094,8 +10094,8 @@
         "pos_active_pct": 9.8,
         "posms": 1478,
         "posms_pct": 0.9961,
-        "lat": null,
-        "lng": null,
+        "lat": 31.5,
+        "lng": 74.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10116,8 +10116,8 @@
         "pos_active_pct": 9.8,
         "posms": 597,
         "posms_pct": 0.9266,
-        "lat": null,
-        "lng": null,
+        "lat": 25.9,
+        "lng": 68.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10138,8 +10138,8 @@
         "pos_active_pct": 9.8,
         "posms": 363,
         "posms_pct": 0.9267,
-        "lat": null,
-        "lng": null,
+        "lat": 34.2,
+        "lng": 71.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10160,8 +10160,8 @@
         "pos_active_pct": 9.8,
         "posms": 150,
         "posms_pct": 0.8922,
-        "lat": null,
-        "lng": null,
+        "lat": 28.5,
+        "lng": 65.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10182,8 +10182,8 @@
         "pos_active_pct": 9.31,
         "posms": 102,
         "posms_pct": 0.9133,
-        "lat": null,
-        "lng": null,
+        "lat": 33.7,
+        "lng": 73.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10227,8 +10227,8 @@
         "pos_active_pct": 9.5,
         "posms": 2740,
         "posms_pct": 4.9818,
-        "lat": null,
-        "lng": null,
+        "lat": 7.9,
+        "lng": 80.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10272,8 +10272,8 @@
         "pos_active_pct": 15.58,
         "posms": 1291,
         "posms_pct": 1.3172,
-        "lat": null,
-        "lng": null,
+        "lat": 35.7,
+        "lng": 139.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10294,8 +10294,8 @@
         "pos_active_pct": 16.4,
         "posms": 621,
         "posms_pct": 1.3864,
-        "lat": null,
-        "lng": null,
+        "lat": 34.7,
+        "lng": 135.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10316,8 +10316,8 @@
         "pos_active_pct": 16.4,
         "posms": 466,
         "posms_pct": 1.3864,
-        "lat": null,
-        "lng": null,
+        "lat": 35.2,
+        "lng": 137.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10338,8 +10338,8 @@
         "pos_active_pct": 17.22,
         "posms": 285,
         "posms_pct": 1.4553,
-        "lat": null,
-        "lng": null,
+        "lat": 38.3,
+        "lng": 140.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10360,8 +10360,8 @@
         "pos_active_pct": 17.22,
         "posms": 489,
         "posms_pct": 1.4558,
-        "lat": null,
-        "lng": null,
+        "lat": 33.6,
+        "lng": 130.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10382,8 +10382,8 @@
         "pos_active_pct": 16.4,
         "posms": 699,
         "posms_pct": 1.3864,
-        "lat": null,
-        "lng": null,
+        "lat": 36.2,
+        "lng": 138.3,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10427,8 +10427,8 @@
         "pos_active_pct": 16.25,
         "posms": 937,
         "posms_pct": 1.5941,
-        "lat": null,
-        "lng": null,
+        "lat": 37.6,
+        "lng": 126.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10449,8 +10449,8 @@
         "pos_active_pct": 17.96,
         "posms": 444,
         "posms_pct": 1.7619,
-        "lat": null,
-        "lng": null,
+        "lat": 35.2,
+        "lng": 128.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10471,8 +10471,8 @@
         "pos_active_pct": 17.1,
         "posms": 194,
         "posms_pct": 1.6171,
-        "lat": null,
-        "lng": null,
+        "lat": 35.8,
+        "lng": 127.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10493,8 +10493,8 @@
         "pos_active_pct": 17.1,
         "posms": 201,
         "posms_pct": 1.6775,
-        "lat": null,
-        "lng": null,
+        "lat": 36.5,
+        "lng": 127.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10515,8 +10515,8 @@
         "pos_active_pct": 17.1,
         "posms": 201,
         "posms_pct": 1.6775,
-        "lat": null,
-        "lng": null,
+        "lat": 37.9,
+        "lng": 127.7,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10560,8 +10560,8 @@
         "pos_active_pct": 22.6,
         "posms": 501,
         "posms_pct": 0.1113,
-        "lat": null,
-        "lng": null,
+        "lat": 40.0,
+        "lng": 116.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10582,8 +10582,8 @@
         "pos_active_pct": 23.73,
         "posms": 467,
         "posms_pct": 0.1168,
-        "lat": null,
-        "lng": null,
+        "lat": 44.0,
+        "lng": 126.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10604,8 +10604,8 @@
         "pos_active_pct": 21.47,
         "posms": 951,
         "posms_pct": 0.1057,
-        "lat": null,
-        "lng": null,
+        "lat": 31.2,
+        "lng": 121.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10626,8 +10626,8 @@
         "pos_active_pct": 21.47,
         "posms": 687,
         "posms_pct": 0.1057,
-        "lat": null,
-        "lng": null,
+        "lat": 23.1,
+        "lng": 113.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10648,8 +10648,8 @@
         "pos_active_pct": 23.73,
         "posms": 876,
         "posms_pct": 0.1168,
-        "lat": null,
-        "lng": null,
+        "lat": 30.6,
+        "lng": 114.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10670,8 +10670,8 @@
         "pos_active_pct": 23.73,
         "posms": 818,
         "posms_pct": 0.1168,
-        "lat": null,
-        "lng": null,
+        "lat": 35.9,
+        "lng": 104.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10692,8 +10692,8 @@
         "pos_active_pct": 22.6,
         "posms": 389,
         "posms_pct": 0.1113,
-        "lat": null,
-        "lng": null,
+        "lat": 36.1,
+        "lng": 103.8,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10714,8 +10714,8 @@
         "pos_active_pct": 22.6,
         "posms": 890,
         "posms_pct": 0.1113,
-        "lat": null,
-        "lng": null,
+        "lat": 35.9,
+        "lng": 104.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10759,8 +10759,8 @@
         "pos_active_pct": 9.8,
         "posms": 282,
         "posms_pct": 2.352,
-        "lat": null,
-        "lng": null,
+        "lat": 22.4,
+        "lng": 114.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10804,8 +10804,8 @@
         "pos_active_pct": 13.0,
         "posms": 1221,
         "posms_pct": 3.4892,
-        "lat": null,
-        "lng": null,
+        "lat": 23.7,
+        "lng": 121.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -10849,8 +10849,8 @@
         "pos_active_pct": 31.71,
         "posms": 3326,
         "posms_pct": 0.7295,
-        "lat": null,
-        "lng": null,
+        "lat": -6.9,
+        "lng": 107.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10871,8 +10871,8 @@
         "pos_active_pct": 30.2,
         "posms": 1223,
         "posms_pct": 0.6948,
-        "lat": null,
-        "lng": null,
+        "lat": 0.6,
+        "lng": 101.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10893,8 +10893,8 @@
         "pos_active_pct": 29.6,
         "posms": 327,
         "posms_pct": 0.681,
-        "lat": null,
-        "lng": null,
+        "lat": 1.7,
+        "lng": 113.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10915,8 +10915,8 @@
         "pos_active_pct": 30.2,
         "posms": 389,
         "posms_pct": 0.6948,
-        "lat": null,
-        "lng": null,
+        "lat": -1.4,
+        "lng": 121.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10937,8 +10937,8 @@
         "pos_active_pct": 29.6,
         "posms": 272,
         "posms_pct": 0.681,
-        "lat": null,
-        "lng": null,
+        "lat": -8.5,
+        "lng": 115.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -10959,8 +10959,8 @@
         "pos_active_pct": 28.69,
         "posms": 158,
         "posms_pct": 0.66,
-        "lat": null,
-        "lng": null,
+        "lat": -4.3,
+        "lng": 138.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11004,8 +11004,8 @@
         "pos_active_pct": 15.3,
         "posms": 412,
         "posms_pct": 0.6695,
-        "lat": null,
-        "lng": null,
+        "lat": 21.0,
+        "lng": 105.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11026,8 +11026,8 @@
         "pos_active_pct": 14.54,
         "posms": 339,
         "posms_pct": 0.6049,
-        "lat": null,
-        "lng": null,
+        "lat": 10.8,
+        "lng": 106.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11048,8 +11048,8 @@
         "pos_active_pct": 16.07,
         "posms": 337,
         "posms_pct": 0.6685,
-        "lat": null,
-        "lng": null,
+        "lat": 10.4,
+        "lng": 105.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11070,8 +11070,8 @@
         "pos_active_pct": 16.07,
         "posms": 374,
         "posms_pct": 0.6685,
-        "lat": null,
-        "lng": null,
+        "lat": 16.5,
+        "lng": 107.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11092,8 +11092,8 @@
         "pos_active_pct": 15.3,
         "posms": 356,
         "posms_pct": 0.6365,
-        "lat": null,
-        "lng": null,
+        "lat": 15.0,
+        "lng": 107.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11137,8 +11137,8 @@
         "pos_active_pct": 16.2,
         "posms": 454,
         "posms_pct": 0.709,
-        "lat": null,
-        "lng": null,
+        "lat": 3.8,
+        "lng": 103.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11159,8 +11159,8 @@
         "pos_active_pct": 16.2,
         "posms": 56,
         "posms_pct": 0.6382,
-        "lat": null,
-        "lng": null,
+        "lat": 5.0,
+        "lng": 117.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11181,8 +11181,8 @@
         "pos_active_pct": 16.2,
         "posms": 46,
         "posms_pct": 0.6376,
-        "lat": null,
-        "lng": null,
+        "lat": 2.5,
+        "lng": 113.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11226,8 +11226,8 @@
         "pos_active_pct": 12.8,
         "posms": 1202,
         "posms_pct": 3.4355,
-        "lat": null,
-        "lng": null,
+        "lat": 12.6,
+        "lng": 104.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11271,8 +11271,8 @@
         "pos_active_pct": 14.0,
         "posms": 2379,
         "posms_pct": 2.9736,
-        "lat": null,
-        "lng": null,
+        "lat": 17.1,
+        "lng": 96.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11316,8 +11316,8 @@
         "pos_active_pct": 12.1,
         "posms": 195,
         "posms_pct": 3.2476,
-        "lat": null,
-        "lng": null,
+        "lat": 1.4,
+        "lng": 103.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11361,8 +11361,8 @@
         "pos_active_pct": 7.8,
         "posms": 155,
         "posms_pct": 0.8804,
-        "lat": null,
-        "lng": null,
+        "lat": -33.9,
+        "lng": 151.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11383,8 +11383,8 @@
         "pos_active_pct": 7.64,
         "posms": 123,
         "posms_pct": 0.8623,
-        "lat": null,
-        "lng": null,
+        "lat": -37.8,
+        "lng": 145.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11405,8 +11405,8 @@
         "pos_active_pct": 8.19,
         "posms": 110,
         "posms_pct": 0.9557,
-        "lat": null,
-        "lng": null,
+        "lat": -27.5,
+        "lng": 153.0,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11427,8 +11427,8 @@
         "pos_active_pct": 7.8,
         "posms": 53,
         "posms_pct": 0.8798,
-        "lat": null,
-        "lng": null,
+        "lat": -31.9,
+        "lng": 115.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11449,8 +11449,8 @@
         "pos_active_pct": 7.8,
         "posms": 34,
         "posms_pct": 0.88,
-        "lat": null,
-        "lng": null,
+        "lat": -34.9,
+        "lng": 138.6,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11471,8 +11471,8 @@
         "pos_active_pct": 7.8,
         "posms": 14,
         "posms_pct": 0.8755,
-        "lat": null,
-        "lng": null,
+        "lat": -12.5,
+        "lng": 130.8,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11516,8 +11516,8 @@
         "pos_active_pct": 8.9,
         "posms": 301,
         "posms_pct": 3.7594,
-        "lat": null,
-        "lng": null,
+        "lat": -41.0,
+        "lng": 174.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11561,8 +11561,8 @@
         "pos_active_pct": 28.6,
         "posms": 2559,
         "posms_pct": 17.057,
-        "lat": null,
-        "lng": null,
+        "lat": -6.3,
+        "lng": 143.9,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11606,8 +11606,8 @@
         "pos_active_pct": 22.2,
         "posms": 367,
         "posms_pct": 10.4895,
-        "lat": null,
-        "lng": null,
+        "lat": -17.7,
+        "lng": 178.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11673,8 +11673,8 @@
         "pos_active_pct": 30.7,
         "posms": 218,
         "posms_pct": 14.5058,
-        "lat": null,
-        "lng": null,
+        "lat": -9.4,
+        "lng": 160.2,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11718,8 +11718,8 @@
         "pos_active_pct": 28.77,
         "posms": 389,
         "posms_pct": 2.9223,
-        "lat": null,
-        "lng": null,
+        "lat": 37.9,
+        "lng": 23.7,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11740,8 +11740,8 @@
         "pos_active_pct": 27.4,
         "posms": 153,
         "posms_pct": 2.6879,
-        "lat": null,
-        "lng": null,
+        "lat": 38.8,
+        "lng": 22.4,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11762,8 +11762,8 @@
         "pos_active_pct": 27.4,
         "posms": 255,
         "posms_pct": 2.6879,
-        "lat": null,
-        "lng": null,
+        "lat": 40.6,
+        "lng": 22.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11784,8 +11784,8 @@
         "pos_active_pct": 27.4,
         "posms": 147,
         "posms_pct": 2.5865,
-        "lat": null,
-        "lng": null,
+        "lat": 37.2,
+        "lng": 22.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11806,8 +11806,8 @@
         "pos_active_pct": 28.77,
         "posms": 107,
         "posms_pct": 2.8223,
-        "lat": null,
-        "lng": null,
+        "lat": 37.4,
+        "lng": 25.0,
         "data_type": "estimated",
         "cities": {}
       }
@@ -11851,8 +11851,8 @@
         "pos_active_pct": 30.87,
         "posms": 1816,
         "posms_pct": 3.604,
-        "lat": null,
-        "lng": null,
+        "lat": 41.0,
+        "lng": 28.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11873,8 +11873,8 @@
         "pos_active_pct": 29.4,
         "posms": 597,
         "posms_pct": 3.3185,
-        "lat": null,
-        "lng": null,
+        "lat": 38.4,
+        "lng": 27.1,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11895,8 +11895,8 @@
         "pos_active_pct": 29.4,
         "posms": 657,
         "posms_pct": 3.318,
-        "lat": null,
-        "lng": null,
+        "lat": 37.0,
+        "lng": 35.3,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11917,8 +11917,8 @@
         "pos_active_pct": 29.4,
         "posms": 777,
         "posms_pct": 3.3186,
-        "lat": null,
-        "lng": null,
+        "lat": 39.9,
+        "lng": 32.9,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11939,8 +11939,8 @@
         "pos_active_pct": 30.87,
         "posms": 666,
         "posms_pct": 3.3658,
-        "lat": null,
-        "lng": null,
+        "lat": 41.3,
+        "lng": 36.2,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11961,8 +11961,8 @@
         "pos_active_pct": 29.4,
         "posms": 577,
         "posms_pct": 3.2047,
-        "lat": null,
-        "lng": null,
+        "lat": 38.8,
+        "lng": 40.5,
         "data_type": "estimated",
         "cities": {}
       },
@@ -11983,8 +11983,8 @@
         "pos_active_pct": 29.4,
         "posms": 981,
         "posms_pct": 3.2052,
-        "lat": null,
-        "lng": null,
+        "lat": 37.2,
+        "lng": 40.1,
         "data_type": "estimated",
         "cities": {}
       }
@@ -12028,8 +12028,8 @@
         "pos_active_pct": 12.0,
         "posms": 115,
         "posms_pct": 2.88,
-        "lat": null,
-        "lng": null,
+        "lat": 10.5,
+        "lng": 46.2,
         "data_type": "estimated",
         "cities": {}
       }

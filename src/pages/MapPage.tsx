@@ -275,11 +275,10 @@ export default function MapPage() {
       if (!cd || !Object.keys(cd.regions ?? {}).length) return
       // Country center coords from regions
       const regs = Object.values(cd.regions)
-      const hasGeo = regs.some(r => r.lat && r.lng)
-      if (!hasGeo) return
-
-      const avgLat = regs.reduce((s, r) => s + (r.lat ?? 0), 0) / regs.length
-      const avgLng = regs.reduce((s, r) => s + (r.lng ?? 0), 0) / regs.length
+      const regsWithGeo = regs.filter(r => r.lat && r.lng)
+      if (!regsWithGeo.length) return
+      const avgLat = regsWithGeo.reduce((s, r) => s + (r.lat ?? 0), 0) / regsWithGeo.length
+      const avgLng = regsWithGeo.reduce((s, r) => s + (r.lng ?? 0), 0) / regsWithGeo.length
       setDrillCountry({ country: originalName, lat: avgLat, lng: avgLng })
       setView('country-detail')
     })
@@ -302,7 +301,7 @@ export default function MapPage() {
   if (loading) return <Loading label="Carregando mapa..." />
 
   const drillData = drillCountry && countries ? countries[drillCountry.country] : null
-  const drillRegions = drillData ? Object.values(drillData.regions).filter(r => r.lat && r.lng) : []
+  const drillRegions = drillData ? Object.values(drillData.regions) : []
 
   const regionVals = drillRegions.map(r => (r as any)[metric] as number ?? 0).filter(v => v > 0)
   const minRV = regionVals.length ? Math.min(...regionVals) : 0

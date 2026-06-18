@@ -135,6 +135,196 @@ GEO_CHILE_REGIONS = {
     "VALPARAISO":  {"lat":-33.0472, "lng":-71.6127},
 }
 
+COUNTRY_CENTROIDS: dict[str, tuple[float, float]] = {
+    "Africa do Sul": (-29.0, 25.0), "Albânia": (41.1, 20.2), "Alemanha": (51.2, 10.5),
+    "Angola": (-11.2, 17.9), "Argentina": (-38.4, -63.6), "Argélia": (28.0, 1.7),
+    "Armênia": (40.1, 45.0), "Arábia Saudita": (24.2, 45.1), "Austrália": (-25.3, 133.8),
+    "Azerbaijão": (40.1, 47.6), "Bahrain": (26.0, 50.6), "Bangladesh": (23.7, 90.4),
+    "Barbados": (13.2, -59.6), "Benin": (9.3, 2.3), "Botswana": (-22.3, 24.7),
+    "Brazil": (-14.2, -51.9), "Bulgária": (42.7, 25.5), "Burkina Faso": (12.4, -1.6),
+    "Burundi": (-3.4, 30.0), "Bélgica": (50.5, 4.5), "Camarões": (3.9, 11.5),
+    "Camboja": (12.6, 104.9), "Canadá": (56.1, -96.3), "Cazaquistão": (48.0, 66.9),
+    "Chile": (-35.7, -71.5), "China": (35.9, 104.2), "Chipre": (35.1, 33.4),
+    "Colômbia": (4.1, -72.3), "Comores": (-11.9, 43.3), "Coreia do Sul": (35.9, 127.8),
+    "Costa Rica": (9.7, -83.8), "Costa do Marfim": (7.5, -5.5), "Dinamarca": (56.3, 9.5),
+    "Djibuti": (11.8, 42.6), "EAU": (24.0, 54.0), "EUA": (37.1, -95.7),
+    "Egito": (26.8, 30.8), "El Salvador": (13.8, -88.9), "Equador": (-1.8, -78.2),
+    "Eritreia": (15.2, 39.8), "Eslováquia": (48.7, 19.7), "Eslovênia": (46.2, 14.8),
+    "Espanha": (40.5, -3.7), "Estônia": (58.6, 25.0), "Etiópia": (9.1, 40.5),
+    "Fiji": (-17.7, 178.1), "Finlândia": (61.9, 25.7), "França": (46.2, 2.2),
+    "Gabão": (-0.8, 11.6), "Gana": (7.9, -1.0), "Geórgia": (42.3, 43.4),
+    "Grécia": (38.8, 22.0), "Guatemala": (15.8, -90.2), "Guiana": (5.0, -58.9),
+    "Guiné": (11.0, -10.9), "Guiné Equatorial": (1.7, 10.3), "Gâmbia": (13.5, -15.3),
+    "Holanda": (52.1, 5.3), "Honduras": (15.2, -86.2), "Hong Kong": (22.4, 114.1),
+    "Hungria": (47.2, 19.5), "Ilhas Salomão": (-9.4, 160.2), "Indonésia": (-0.8, 113.9),
+    "Iraque": (33.2, 43.7), "Irlanda": (53.4, -8.2), "Itália": (42.8, 12.8),
+    "Iêmen": (15.6, 48.5), "Jamaica": (18.1, -77.3), "Japão": (36.2, 138.3),
+    "Jordânia": (30.6, 36.2), "Kosovo": (42.6, 20.9), "Kuwait": (29.3, 47.5),
+    "Letônia": (56.9, 24.6), "Lituânia": (55.2, 23.9), "Líbano": (33.9, 35.5),
+    "Líbia": (26.3, 17.2), "Macedônia": (41.6, 21.7), "Madagascar": (-18.8, 46.9),
+    "Malaui": (-13.3, 34.3), "Mali": (17.6, -4.0), "Malta": (35.9, 14.4),
+    "Malásia": (4.2, 108.0), "Marrocos": (31.8, -7.1), "Mauritânia": (21.0, -10.9),
+    "Maurício": (-20.3, 57.5), "Mayotte": (-12.8, 45.2), "Moldova": (47.4, 28.4),
+    "Moçambique": (-18.7, 35.5), "Myanmar": (17.1, 96.1), "México": (23.6, -102.6),
+    "Namíbia": (-22.0, 17.1), "Nicarágua": (12.9, -85.2), "Nigéria": (9.1, 8.7),
+    "Noruega": (60.5, 8.5), "Nova Zelândia": (-41.0, 174.9), "Níger": (17.6, 8.1),
+    "Omã": (21.5, 55.9), "Palestina": (31.9, 35.2), "Panamá": (8.5, -80.8),
+    "Papua Nova Guiné": (-6.3, 143.9), "Paquistão": (30.4, 69.3), "Paraguai": (-23.4, -58.4),
+    "Peru": (-9.2, -75.0), "Polônia": (51.9, 19.1), "Portugal": (39.4, -8.2),
+    "Qatar": (25.4, 51.2), "Quênia": (0.0, 37.9), "RD Congo": (-4.0, 21.8),
+    "Reino Unido": (54.4, -3.4), "República Dominicana": (18.7, -70.2), "República Tcheca": (49.8, 15.5),
+    "Reunião": (-21.1, 55.5), "Romênia": (45.9, 24.9), "Ruanda": (-1.9, 29.9),
+    "Samoa": (-13.8, -172.1), "Senegal": (14.5, -14.5), "Serra Leoa": (8.5, -11.8),
+    "Singapura": (1.4, 103.8), "Somaliland": (10.5, 46.2), "Somália": (5.2, 46.2),
+    "Sri Lanka": (7.9, 80.8), "Sudão": (12.9, 30.2), "Sudão do Sul": (4.9, 31.3),
+    "Suriname": (3.9, -56.0), "Suécia": (60.1, 18.6), "Suíça": (46.8, 8.2),
+    "Sérvia": (44.0, 21.0), "Taiwan": (23.7, 121.0), "Tanzânia": (-6.4, 34.9),
+    "Togo": (8.6, 0.8), "Trinidad e Tobago": (10.7, -61.2), "Tunísia": (33.9, 9.6),
+    "Turquia": (38.9, 35.2), "Ucrânia": (48.4, 31.2), "Uganda": (1.4, 32.3),
+    "Uruguai": (-32.5, -55.8), "Uzbequistão": (41.4, 64.6), "Venezuela": (6.4, -66.6),
+    "Vietnã": (14.1, 108.3), "Zimbábue": (-19.0, 29.2), "Zâmbia": (-13.1, 27.9),
+    "Áustria": (47.5, 14.6),
+}
+
+GEO_REGIONS: dict[tuple[str,str], tuple[float,float]] = {
+    # Africa do Sul
+    ("Africa do Sul","Gauteng"): (-26.1,28.0), ("Africa do Sul","Western Cape"): (-33.9,18.4),
+    ("Africa do Sul","KwaZulu-Natal"): (-29.8,31.0), ("Africa do Sul","Eastern Cape"): (-31.5,27.5),
+    ("Africa do Sul","Other Provinces"): (-26.0,26.0),
+    # Alemanha
+    ("Alemanha","Baden-Württemberg"): (48.7,9.2), ("Alemanha","Bavaria"): (48.1,11.6),
+    ("Alemanha","Berlin"): (52.5,13.4), ("Alemanha","North Rhine-Westphalia"): (51.5,7.5),
+    ("Alemanha","Other States"): (52.0,11.0),
+    # Argentina
+    ("Argentina","Centro (Buenos Aires)"): (-34.6,-58.4), ("Argentina","Noroeste"): (-24.0,-65.4),
+    ("Argentina","Nordeste"): (-27.5,-57.0), ("Argentina","Cuyo"): (-32.9,-68.8),
+    ("Argentina","Patagônia"): (-41.8,-65.0), ("Argentina","Other"): (-37.0,-61.0),
+    # Arábia Saudita
+    ("Arábia Saudita","Riyadh"): (24.7,46.7), ("Arábia Saudita","Makkah (Jeddah)"): (21.4,39.8),
+    ("Arábia Saudita","Eastern Province"): (26.4,50.0), ("Arábia Saudita","Al Madinah"): (24.5,39.6),
+    ("Arábia Saudita","Other Regions"): (22.0,44.0),
+    # Austrália
+    ("Austrália","New South Wales"): (-33.9,151.2), ("Austrália","Victoria"): (-37.8,145.0),
+    ("Austrália","Queensland"): (-27.5,153.0), ("Austrália","Western Australia"): (-31.9,115.9),
+    ("Austrália","South Australia"): (-34.9,138.6), ("Austrália","Other"): (-12.5,130.8),
+    # Bangladesh
+    ("Bangladesh","Dhaka"): (23.8,90.4), ("Bangladesh","Chittagong"): (22.3,91.8),
+    ("Bangladesh","Rajshahi"): (24.4,88.6), ("Bangladesh","Khulna"): (22.8,89.6),
+    ("Bangladesh","Sylhet"): (24.9,91.9), ("Bangladesh","Other"): (25.0,89.4),
+    # Canadá
+    ("Canadá","Atlantic Canada"): (46.0,-64.0), ("Canadá","Quebec"): (52.0,-72.0),
+    ("Canadá","Ontario"): (50.0,-86.0), ("Canadá","Prairie Provinces"): (52.0,-106.0),
+    ("Canadá","British Columbia"): (53.7,-127.6),
+    # China
+    ("China","Norte (Beijing/Hebei)"): (40.0,116.4), ("China","Nordeste (Manchúria)"): (44.0,126.0),
+    ("China","Leste (Shanghai/Jiangsu)"): (31.2,121.5), ("China","Sul (Guangdong)"): (23.1,113.3),
+    ("China","Centro (Hubei/Hunan)"): (30.6,114.3), ("China","Sudoeste (Sichuan/Yunnan)"): (30.7,104.1),
+    ("China","Noroeste"): (36.1,103.8), ("China","Other"): (35.0,105.0),
+    # Colômbia
+    ("Colômbia","Caribe"): (10.9,-74.8), ("Colômbia","Andina"): (4.7,-74.1),
+    ("Colômbia","Pacífico"): (3.9,-77.0), ("Colômbia","Orinoquía"): (4.2,-72.5),
+    ("Colômbia","Amazônica"): (-1.5,-71.5), ("Colômbia","Nororiental"): (7.1,-73.1),
+    ("Colômbia","Other"): (6.2,-75.6),
+    # Coreia do Sul
+    ("Coreia do Sul","Capital Region (Seoul)"): (37.6,126.9), ("Coreia do Sul","Gyeongsang"): (35.2,128.7),
+    ("Coreia do Sul","Jeolla"): (35.8,127.1), ("Coreia do Sul","Chungcheong"): (36.5,127.7),
+    ("Coreia do Sul","Other"): (37.9,127.7),
+    # EAU
+    ("EAU","Dubai"): (25.2,55.3), ("EAU","Abu Dhabi"): (24.5,54.4),
+    ("EAU","Sharjah & Northern Emirates"): (25.3,55.4),
+    # EUA
+    ("EUA","Northeast"): (42.0,-73.0), ("EUA","Midwest"): (41.0,-87.0),
+    ("EUA","South"): (33.0,-84.0), ("EUA","West"): (37.0,-120.0),
+    # Egito
+    ("Egito","Cairo & Giza"): (30.0,31.2), ("Egito","Delta do Nilo"): (30.8,31.0),
+    ("Egito","Upper Egypt"): (26.0,32.0), ("Egito","Canal & Sinai"): (30.5,32.5),
+    # Espanha
+    ("Espanha","Catalunha"): (41.4,2.2), ("Espanha","Madrid"): (40.4,-3.7),
+    ("Espanha","Andaluzia"): (37.3,-6.0), ("Espanha","Comunidade Valenciana"): (39.5,-0.5),
+    ("Espanha","Other Regions"): (42.0,-2.0),
+    # França
+    ("França","Île-de-France"): (48.9,2.3), ("França","Auvergne-Rhône-Alpes"): (45.7,4.8),
+    ("França","Provence-Alpes-Côte d'Azur"): (43.9,6.1), ("França","Occitanie"): (43.6,3.9),
+    ("França","Other Regions"): (47.0,1.0),
+    # Grécia
+    ("Grécia","Attica (Athens)"): (37.9,23.7), ("Grécia","Central Greece"): (38.8,22.4),
+    ("Grécia","North Greece (Thessaloniki)"): (40.6,22.9), ("Grécia","Peloponnese & Crete"): (37.2,22.3),
+    ("Grécia","Islands"): (37.4,25.0),
+    # Indonésia
+    ("Indonésia","Jawa"): (-6.9,107.6), ("Indonésia","Sumatera"): (0.6,101.3),
+    ("Indonésia","Kalimantan"): (1.7,113.9), ("Indonésia","Sulawesi"): (-1.4,121.4),
+    ("Indonésia","Bali e Nusa Tenggara"): (-8.5,115.2), ("Indonésia","Papua e Maluku"): (-4.3,138.0),
+    # Iraque
+    ("Iraque","Baghdad"): (33.3,44.4), ("Iraque","South Iraq"): (31.0,46.2),
+    ("Iraque","Kurdistan Region"): (36.2,44.0), ("Iraque","North & West Iraq"): (34.6,42.8),
+    # Itália
+    ("Itália","Nord-Ovest (Milano)"): (45.5,9.2), ("Itália","Nord-Est (Venezia)"): (45.4,12.3),
+    ("Itália","Centro (Roma)"): (41.9,12.5), ("Itália","Sud (Naples)"): (40.8,14.3),
+    ("Itália","Isole (Sicília/Sardenha)"): (37.5,14.0),
+    # Japão
+    ("Japão","Kantō (Tokyo)"): (35.7,139.7), ("Japão","Kansai (Osaka)"): (34.7,135.5),
+    ("Japão","Tōkai (Nagoya)"): (35.2,137.0), ("Japão","Tōhoku"): (38.3,140.9),
+    ("Japão","Kyushu e Okinawa"): (33.6,130.4), ("Japão","Other"): (43.1,141.4),
+    # Malásia
+    ("Malásia","Peninsular Malaysia"): (3.8,103.1), ("Malásia","Sabah"): (5.0,117.1),
+    ("Malásia","Sarawak"): (2.5,113.1),
+    # Marrocos
+    ("Marrocos","Grand Casablanca-Settat"): (33.6,-7.6), ("Marrocos","Rabat-Salé"): (34.0,-6.8),
+    ("Marrocos","Fès-Meknès"): (34.0,-5.0), ("Marrocos","Marrakech-Safi"): (31.6,-8.0),
+    ("Marrocos","Other Regions"): (31.0,-5.0),
+    # México
+    ("México","Norte"): (27.0,-107.0), ("México","Centro-Norte"): (24.0,-104.0),
+    ("México","Centro"): (19.4,-99.1), ("México","Sur-Sureste"): (18.0,-92.0),
+    ("México","Peninsular"): (20.7,-88.0),
+    # Nigéria
+    ("Nigéria","South West (Lagos)"): (6.5,3.4), ("Nigéria","South South (Rivers)"): (4.8,7.0),
+    ("Nigéria","South East"): (5.5,8.0), ("Nigéria","North West"): (12.0,8.0),
+    ("Nigéria","North Central"): (9.1,7.5), ("Nigéria","North East"): (11.0,13.1),
+    # Paquistão
+    ("Paquistão","Punjab"): (31.5,74.3), ("Paquistão","Sindh"): (25.9,68.3),
+    ("Paquistão","Khyber Pakhtunkhwa"): (34.2,71.9), ("Paquistão","Balochistan"): (28.5,65.5),
+    ("Paquistão","Islamabad"): (33.7,73.1),
+    # Polônia
+    ("Polônia","Mazowieckie (Warszawa)"): (52.2,21.0), ("Polônia","Śląskie"): (50.3,19.0),
+    ("Polônia","Małopolskie"): (50.1,20.0), ("Polônia","Wielkopolskie"): (52.4,17.0),
+    ("Polônia","Other Provinces"): (52.0,18.5),
+    # Portugal
+    ("Portugal","Lisboa e Vale do Tejo"): (38.7,-9.1), ("Portugal","Norte"): (41.5,-8.4),
+    ("Portugal","Centro"): (39.8,-8.0), ("Portugal","Alentejo"): (38.0,-7.9),
+    ("Portugal","Algarve"): (37.1,-8.1),
+    # Quênia
+    ("Quênia","Nairobi"): (-1.3,36.8), ("Quênia","Central"): (-0.5,37.1),
+    ("Quênia","Coast"): (-3.2,40.1), ("Quênia","Nyanza & Western"): (-0.1,34.8),
+    ("Quênia","Rift Valley"): (0.5,36.0), ("Quênia","Eastern & NEP"): (0.7,38.5),
+    # Reino Unido
+    ("Reino Unido","England"): (52.4,-1.8), ("Reino Unido","Scotland"): (56.5,-4.2),
+    ("Reino Unido","Wales"): (52.1,-3.8), ("Reino Unido","Northern Ireland"): (54.6,-6.7),
+    # Romênia
+    ("Romênia","Bucharest-Ilfov"): (44.4,26.1), ("Romênia","Sud-Muntenia"): (44.1,25.4),
+    ("Romênia","Nord-Vest"): (46.7,23.6), ("Romênia","Nord-Est"): (47.2,26.7),
+    ("Romênia","Other Regions"): (45.8,24.6),
+    # Tanzânia
+    ("Tanzânia","Dar es Salaam"): (-6.8,39.3), ("Tanzânia","Zone Kaskazini (Northern)"): (-3.4,36.7),
+    ("Tanzânia","Zone Kanda ya Kati (Central)"): (-5.8,35.7), ("Tanzânia","Zone Kusini (Southern)"): (-9.3,35.7),
+    ("Tanzânia","Zone Mashariki (Eastern)"): (-6.2,38.5), ("Tanzânia","Zone Magharibi (Western)"): (-4.9,32.8),
+    # Turquia
+    ("Turquia","Marmara (Istanbul)"): (41.0,28.9), ("Turquia","Ege (Izmir)"): (38.4,27.1),
+    ("Turquia","Akdeniz"): (37.0,35.3), ("Turquia","İç Anadolu (Ankara)"): (39.9,32.9),
+    ("Turquia","Karadeniz"): (41.3,36.2), ("Turquia","Doğu Anadolu"): (38.8,40.5),
+    ("Turquia","Güneydoğu Anadolu"): (37.2,40.1),
+    # Ucrânia
+    ("Ucrânia","Eastern Ukraine (Kharkiv/Dnipro)"): (49.0,36.2), ("Ucrânia","Central (Kyiv)"): (50.5,30.5),
+    ("Ucrânia","Southern (Odessa)"): (46.5,30.7), ("Ucrânia","Western Ukraine"): (49.8,24.0),
+    ("Ucrânia","Northern Ukraine"): (51.5,31.3), ("Ucrânia","Other"): (49.0,33.0),
+    # Vietnã
+    ("Vietnã","Red River Delta (Hanoi)"): (21.0,105.9), ("Vietnã","Southeast (Ho Chi Minh)"): (10.8,106.7),
+    ("Vietnã","Mekong River Delta"): (10.4,105.7), ("Vietnã","North Central & Central Coast"): (16.5,107.6),
+    ("Vietnã","Other Regions"): (15.0,107.0),
+    # Argélia
+    ("Argélia","Norte (Alger)"): (36.7,3.1), ("Argélia","Nordeste"): (36.4,6.6),
+    ("Argélia","Noroeste"): (35.7,1.3), ("Argélia","Sul (Saara)"): (27.0,2.9),
+}
+
 def get_geo(loc_key, ciclo):
     """Return geo dict for a BDOS loc_key. Handles Brazil (GEO_L5) and Chile (CL{n} - CITY)."""
     if loc_key in GEO_L5:
@@ -218,7 +408,17 @@ for row in rows_region[1:]:
     country = str(row[2]).strip()
     region  = str(row[3]).strip()
     if country not in countries_data: continue
-    geo_r = GEO_CHILE_REGIONS.get(region.upper(), {}) if country == "Chile" else {}
+    if country == "Chile":
+        geo_r = GEO_CHILE_REGIONS.get(region.upper(), {})
+        lat, lng = geo_r.get("lat"), geo_r.get("lng")
+    else:
+        geo_key = GEO_REGIONS.get((country, region))
+        if not geo_key:
+            # fallback: country centroid (covers "Nacional (X)" regions)
+            centroid = COUNTRY_CENTROIDS.get(country)
+            geo_key = centroid
+        lat = geo_key[0] if geo_key else None
+        lng = geo_key[1] if geo_key else None
     countries_data[country]["regions"][region] = {
         "region":      region,
         "country":     country,
@@ -236,8 +436,8 @@ for row in rows_region[1:]:
         "pos_active_pct": parse_pct(row[15]),
         "posms":       parse_num(row[16]),
         "posms_pct":   parse_pct(row[17]),
-        "lat":         geo_r.get("lat"),
-        "lng":         geo_r.get("lng"),
+        "lat":         lat,
+        "lng":         lng,
         "data_type":   "estimated",
         "cities":      {}
     }
